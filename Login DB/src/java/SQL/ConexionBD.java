@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package SQL;
 
 import java.sql.Connection;
@@ -17,9 +13,12 @@ import java.sql.SQLException;
 public class ConexionBD {
     
    private static String url = "jdbc:mysql://127.0.0.1:3307/db_login"; //puedes poner tambien "localhost" en la sección de 127.0.0.1
+   private static String bd = "railway";
+   private static String port = "7177";
    private static String usuario = "root";
-   private static String contrasena = "admin";
-    
+   private static String contrasena = "RKjNnx6rSoqJR6VSaHY8";
+   private static String ip = "containers-us-west-26.railway.app";
+   
 //   private static Connection conexion;
 //   private static PreparedStatement sentenciaPreparada;
 //   private static ResultSet resultado;
@@ -29,6 +28,7 @@ public class ConexionBD {
         
         try {
             Class.forName("com.mysql.jdbc.Driver");
+            String url = "jdbc:mysql://" + ConexionBD.ip + ":" + ConexionBD.port + "/" + ConexionBD.bd;
             conexion = DriverManager.getConnection(url, usuario, contrasena);
         }catch (ClassNotFoundException | SQLException e){
             System.out.println("Error: " + e);
@@ -57,3 +57,4 @@ public class ConexionBD {
 //        }
 //    }
 }
+
