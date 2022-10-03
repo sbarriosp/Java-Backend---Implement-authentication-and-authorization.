@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/css/loginstyle.css</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/js/funcionesAltausuario.js</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/src/java/SQL/ConexionBD.java</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/index.html</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/src/java/Servlets/Iniciosesion.java</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/src/java/Servlets/Guardar.java</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/paginaInicio.jsp</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/altaUsuario.jsp</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/js/funcionesLogin.js</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/login.jsp</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/src/java/SQL/MetodosSQL.java</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/web/js/funcionesIndex.js</file>
+            <file>file:/C:/Users/sbarr/Documents/NetBeansProjects/Login%20DB/src/java/Servlets/CerrarSesion.java</file>
+        </group>
+    </open-files>
+</project-private>
