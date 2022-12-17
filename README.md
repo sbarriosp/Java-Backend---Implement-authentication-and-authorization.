@@ -6,4 +6,5 @@ And this is a page which can let you register with an ID, name, lastname, and it
 
 It let you sign in, login and logout. 
 
-You can visit the link of project here: https://reartest.herokuapp.com/
+Add authentication and authorization to your REST API. This could involve implementing user registration, login, and logout functionality, as well as restricting access to certain resources based on a user's role or permissions.
+
